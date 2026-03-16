@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- ██████╗ ██╗   ██╗██████╗  ██████╗  █████╗     ██████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗ 
- ██╔══██╗██║   ██║██╔══██╗██╔════╝ ██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗
- ██║  ██║██║   ██║██████╔╝██║  ███╗███████║    ██████╔╝██████╔╝███████║███████╗███████║██║  ██║
- ██║  ██║██║   ██║██╔══██╗██║   ██║██╔══██║    ██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██║  ██║
- ██████╔╝╚██████╔╝██║  ██║╚██████╔╝██║  ██║    ██║     ██║  ██║██║  ██║███████║██║  ██║██████╔╝
- ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ 
+ ████████╗███████╗     ██╗███╗   ██╗ █████╗ ██╗██████╗ ██╗   ██╗
+    ██╔══╝██╔════╝     ██║████╗  ██║██╔══██╗██║██╔══██╗██║   ██║
+    ██║   █████╗       ██║██╔██╗ ██║███████║██║██║  ██║██║   ██║
+    ██║   ██╔══╝  ██   ██║██║╚██╗██║██╔══██║██║██║  ██║██║   ██║
+    ██║   ███████╗╚█████╔╝██║ ╚████║██║  ██║██║██████╔╝╚██████╔╝
+    ╚═╝   ╚══════╝ ╚════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═════╝  ╚═════╝ 
 ```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+%2B+FastAPI+Builder+%F0%9F%94%A7;Machine+Learning+Enthusiast+%F0%9F%A7%A0;Clean+Code+%7C+Scalable+Systems+%E2%9A%A1)](https://git.io/typing-svg)
@@ -18,7 +18,7 @@
 ## 👤 &nbsp;About Me
 
 ```yaml
-name     : Koppireddy Durga Prasad
+name     : KUMPATLA POORNA CHANDRA SAI TEJA
 degree   : B.Tech Computer Science (in progress)
 mindset  : "Learn → Build → Improve → Repeat"
 status   : Open to collaborations & internships 
